@@ -1,0 +1,11 @@
+{
+  "name": "linux-quest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A retro pixel RPG that teaches the Linux command line.",
+  "scripts": {
+    "test": "node --test tests/",
+    "build": "node build.mjs"
+  }
+}
